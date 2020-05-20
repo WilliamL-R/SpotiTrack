@@ -1,4 +1,4 @@
-package com.example.spotitrack
+package com.wlr.spotitrack
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

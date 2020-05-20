@@ -1,4 +1,4 @@
-package com.example.spotitrack
+package com.wlr.spotitrack
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
