@@ -9,4 +9,15 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    override fun onStart(){
+        super.onStart()
+    }
+
+    private fun connected(){}
+
+    override fun onStop()
+    {
+        super.onStop()
+    }
 }
