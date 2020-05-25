@@ -7,7 +7,7 @@ import com.spotify.android.appremote.api.Connector
 import com.spotify.android.appremote.api.SpotifyAppRemote
 
 object SpotifyConnection {
-    private const val CLIENT_ID = "Trying To find a way to deal with using this securely lol."
+    private const val CLIENT_ID = ""
     private const val  REDIRECT_URI = "com.wlr.spotifyplayer://callback"
 
     private var spotifyAppRemote : SpotifyAppRemote? = null
